@@ -9,6 +9,8 @@
 - Created a GitHub account
 - Created a public repository
 - Opened the repo in Cursor
+-Installed Claude Code and Codex
+-Log in to Claude Code and Codex
 - Wrote this README file
 
 ## Issues I Ran Into
