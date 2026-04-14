@@ -15,7 +15,7 @@ Selected experts:
 - Morgan J Ingram
 - Alex Hormozi
 - Vin Matano
-- Matthew Putnam
+- Kyle Coleman
 - Kris Rudeegraap
 
 ## What was collected
@@ -29,8 +29,16 @@ Selected experts:
 
 - YouTube: `yt-dlp` to locate relevant videos + `youtube-transcript-api` to pull transcript text.
 - LinkedIn: public mirror retrieval (`r.jina.ai`) and parsing of recent activity pages where available.
+- Collection methods and constraints are documented in `research/other/method.md`.
+
+## Quick insights snapshot
+
+- Top repeated theme: generic personalization fails; relevance from account signals performs better.
+- Multi-channel orchestration (email + LinkedIn + calls) appears consistently stronger than single-channel.
+- Message quality and offer clarity are still bigger levers than volume.
+- AI helps speed research/drafting but needs strict human review for accuracy and tone.
 
 ## Notes and limitations
 
-- LinkedIn has anti-bot/privacy controls, so some profiles did not expose recent activity in the public mirror.
+- LinkedIn has anti-bot/privacy controls; in some cases only shared/liked activity is visible in public mirrors.
 - YouTube transcripts were successfully collected for all 10 experts.
