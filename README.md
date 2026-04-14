@@ -31,6 +31,19 @@ Selected experts:
 - LinkedIn: public mirror retrieval (`r.jina.ai`) and parsing of recent activity pages where available.
 - Collection methods and constraints are documented in `research/other/method.md`.
 
+## API and tooling proof
+
+- Created a local virtual environment and installed: `youtube-transcript-api`, `yt-dlp`.
+- Used `yt-dlp` search to find relevant videos per expert and extract metadata.
+- Used `youtube-transcript-api` to pull transcript text for each selected video ID.
+- Used `r.jina.ai` fetch wrappers for LinkedIn public activity mirror pages.
+- Generated and refreshed machine-readable manifests:
+  - `research/other/linkedin_manifest.json`
+  - `research/other/youtube_manifest.json`
+- Verified manifest consistency against actual files in:
+  - `research/linkedin-posts/`
+  - `research/youtube-transcripts/`
+
 ## Quick insights snapshot
 
 - Top repeated theme: generic personalization fails; relevance from account signals performs better.
@@ -42,3 +55,4 @@ Selected experts:
 
 - LinkedIn has anti-bot/privacy controls; in some cases only shared/liked activity is visible in public mirrors.
 - YouTube transcripts were successfully collected for all 10 experts.
+- A draft playbook structure based on this dataset is in `research/other/playbook-outline.md`.
