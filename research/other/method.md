@@ -27,3 +27,12 @@ Build a high-signal research set for a future B2B SaaS cold outreach playbook.
 - LinkedIn anti-bot/privacy controls can restrict full post visibility.
 - Some mirrored activity streams include likes/shares mixed with authored posts.
 - YouTube search may surface interviews/podcasts; relevance was filtered manually by title/topic.
+
+## Trade-offs and what to improve next
+- Current approach favors open/free collection paths, which increases coverage risk on LinkedIn.
+- Public mirrors are good for lightweight collection but weaker for structured post metadata.
+- With paid APIs or broader access, next iteration would:
+  - prioritize authored posts only and exclude likes/shares by default,
+  - capture richer metadata (timestamps, engagement, topic tags),
+  - automate daily refresh with quality checks and change tracking,
+  - improve transcript selection with relevance scoring rather than manual filtering.
