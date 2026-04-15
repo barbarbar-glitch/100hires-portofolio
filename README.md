@@ -25,7 +25,7 @@ Selected experts:
 ## What was collected
 
 - `research/sources.md`: master source list with links, rationale, and collection notes
-- `research/linkedin-posts/`: one file per author for recent LinkedIn activity capture
+- `research/linkedin-posts/`: one file per author with 5 recent LinkedIn activity captures
 - `research/youtube-transcripts/`: one transcript per expert, collected via API tooling
 - `research/other/`: machine-readable manifests for reproducibility
 
@@ -68,6 +68,7 @@ Selected experts:
 ## Outcome
 
 - Built a 10-expert research corpus across LinkedIn + YouTube.
+- Captured 5 LinkedIn activity items per expert and synced the manifest to match.
 - Converted source material into an actionable outbound playbook structure.
 - Added evidence mapping and experiment design so the work can move from research to execution.
 
@@ -75,9 +76,10 @@ Selected experts:
 
 1. Create environment: `python3 -m venv .venv`
 2. Install deps: `./.venv/bin/python -m pip install youtube-transcript-api yt-dlp`
-3. Run collection scripts (examples): `samples/create_session.py`, `scrape_linkedin.py`
-4. Generate/refresh manifests in `research/other/` after updates.
-5. Review outputs in `research/linkedin-posts/` and `research/youtube-transcripts/`.
+3. Use `samples/create_session.py` to create or refresh a LinkedIn browser session when needed.
+4. Refresh the research files manually or with your own collection workflow. Note: `scrape_linkedin.py` is currently a placeholder utility, not a full LinkedIn scraper.
+5. Generate/refresh manifests in `research/other/` after updates.
+6. Review outputs in `research/linkedin-posts/` and `research/youtube-transcripts/`.
 
 ## Quick insights snapshot
 
