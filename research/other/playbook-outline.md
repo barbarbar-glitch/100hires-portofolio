@@ -41,3 +41,31 @@
 - Week 2: test subject line and first-line variants.
 - Week 3: test CTA style and sequence timing.
 - Week 4: optimize by segment; document reusable templates and rules.
+
+## 8) Concrete outreach examples
+
+### Example A: VP Sales persona
+- Trigger: Hiring 4+ SDRs in the last 60 days and adding new outbound headcount.
+- Intent hypothesis: Pipeline coverage pressure is increasing and ramp quality may be uneven.
+- Email draft:
+  - Subject: `Quick idea on SDR ramp quality`
+  - Hi {{FirstName}} - noticed {{Company}} is scaling SDR hiring this quarter.
+  - Teams at this stage usually optimize for activity first, then realize meeting quality lags.
+  - We help teams tighten account selection + first-touch messaging so new reps book higher-quality meetings faster.
+  - If useful, I can send a one-page audit checklist we use to spot early ramp leaks.
+  - Open to a 15-minute walkthrough next week?
+- LinkedIn follow-up (Day 2): "Saw the SDR growth at {{Company}} - can share a simple ramp QA checklist if helpful."
+- CTA: 15-minute fit check, or async checklist share.
+
+### Example B: RevOps persona
+- Trigger: New RevOps leader joined and GTM team is posting about process standardization.
+- Intent hypothesis: Attribution, sequencing consistency, and handoff quality are active projects.
+- Email draft:
+  - Subject: `Sequence consistency question`
+  - Hi {{FirstName}} - congrats on the RevOps role at {{Company}}.
+  - When teams standardize outbound, the first bottleneck is usually inconsistent first-touch logic across reps.
+  - We help RevOps teams map trigger-to-message rules and track positive replies by segment, not just volume.
+  - Happy to share a lightweight framework your team can test in one sprint.
+  - Worth a short call, or should I send the template by email?
+- LinkedIn follow-up (Day 2): "If useful, I can send the trigger-to-message template we use with RevOps teams."
+- CTA: short call or async template share.
