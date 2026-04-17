@@ -61,6 +61,7 @@ Selected experts:
 
 - `research/other/executive-brief.md` (decision-level summary)
 - `research/other/playbook-v1.md` (actionable outbound operating model)
+- `research/other/playbook-final.md` (final cited SOP with disagreements, rejected ideas, original ideas, and weaknesses)
 - `research/other/experiment-plan.md` (test design with measurable criteria)
 - `research/other/evidence-map.md` (traceability from recommendations to sources)
 - `research/other/playbook-outline.md` (supporting draft and examples)
