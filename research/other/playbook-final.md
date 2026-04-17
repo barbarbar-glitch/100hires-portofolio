@@ -13,8 +13,8 @@ Create a practical operating procedure for choosing accounts, building messages,
 
 ## Source Weighting
 - Highest weight: Jason Bay, Will Allred, Josh Braun, Nick Abraham, Kyle Coleman. They gave the clearest tactical guidance for outbound execution (source files listed in the appendix).
-- Medium weight: Morgan J Ingram and Kris Rudeegraap. Useful ideas, but some advice is more workflow-oriented or adjacent to classic cold outreach.
-- Lowest weight: Alex Hormozi, Vin Matano, Belal Batrawy for this exact SOP. They provide useful strategic framing, but less consistently on day-to-day outbound process.
+- Medium weight: Morgan J Ingram and Kris Rudeegraap. Morgan is useful for research workflow and signal selection; Kris is useful when outbound includes gifting or direct mail, but less central when the motion is standard email, LinkedIn, and calling.
+- Lowest weight: Alex Hormozi, Vin Matano, Belal Batrawy for this exact SOP. They provide useful strategic framing, but less consistently on day-to-day outbound process. In Belal’s case, the material in this repo is more about sales posture and executive presence than a repeatable cold outreach operating system.
 
 ## SOP
 
@@ -100,6 +100,7 @@ Create a practical operating procedure for choosing accounts, building messages,
 - I rejected the idea of treating all recent LinkedIn activity equally. Several files include likes and shares mixed with authored posts, and [method.md](method.md) explicitly notes this limitation. I used liked/shared posts as weak supporting evidence, not as the backbone of the playbook.
 - I rejected Alex Hormozi’s more list-heavy, scale-oriented framing as the core operating model. His material is useful for understanding list-building and the permanence of cold outreach as a channel, but it is less careful about message nuance and buyer experience than Jason Bay, Josh Braun, or Will Allred (source: Alex Hormozi, YouTube transcript, 20.08.2023, [alex-hormozi__70-clients-from-100-cold-outreach-in-1-hour-of-work-acquidition-com-alex-hormozi__9yVKNBY-59g.md](../youtube-transcripts/alex-hormozi__70-clients-from-100-cold-outreach-in-1-hour-of-work-acquidition-com-alex-hormozi__9yVKNBY-59g.md)).
 - I rejected “more touches as the answer” when the core hypothesis is weak. Kyle Coleman’s warning about repetitive follow-up and Jason Bay’s warning that buyers already waste time with salespeople both point toward better offers and better targeting, not infinite persistence (source: Kyle Coleman, YouTube transcript, 21.04.2023; Jason Bay, YouTube transcript, 01.07.2025).
+- I did not build the playbook around Kris Rudeegraap’s gifting and direct-mail angle even though it is credible in some GTM motions. In this repo, his strongest authored evidence is about gifting ROI and AI-assisted gifting workflows, which is too channel-specific to serve as the backbone for a general cold outreach SOP (source: Kris Rudeegraap LinkedIn posts, captured 15.04.2026, https://www.linkedin.com/posts/rudeegraap_the-future-of-gifting-is-here-introducing-activity-7369055341868716034-W4Io and https://www.linkedin.com/posts/rudeegraap_wow-every-1-invested-in-direct-mail-campaigns-activity-7348752412859383810-Xxw7).
 
 ## My Original Ideas
 - I would add a `signal score before personalization` rule that did not appear explicitly in the source set. Before a rep writes a custom first line, the account must score at least 3 out of 5 on:
@@ -120,6 +121,7 @@ Create a practical operating procedure for choosing accounts, building messages,
 ## Who I Would NOT Recommend Following And Why
 - For this exact topic, I would not recommend using Alex Hormozi as a primary guide. He is useful for high-level acquisition thinking, list sourcing, and volume tolerance, but his framework in this repo leans toward scale and contact coverage more than buyer experience, message nuance, or trust-building. If someone followed him as their main outbound teacher for a considered B2B SaaS sale, I think they would likely tolerate too much list breadth and too much interruption pressure, which would create more unsubscribes and brushed-off replies than qualified meetings.
 - I also would not recommend relying heavily on Vin Matano for this deliverable. His material is interesting for creator-led distribution and modern GTM, but much of the LinkedIn evidence here is adjacent to content and brand rather than direct outbound execution. He may be more useful for a broader distribution strategy than for a cold outreach operating manual.
+- I would put Belal Batrawy in a similar caution bucket for this assignment. His posts here contain useful thinking about transparency and executive presence, but they do not add much concrete sequence, targeting, or messaging structure compared with the stronger outbound-specific sources. I would still read him for sales judgment, just not treat him as a primary architect of this SOP.
 
 ## Source Appendix
 
