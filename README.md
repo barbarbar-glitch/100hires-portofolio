@@ -60,8 +60,8 @@ Selected experts:
 ## Deliverables
 
 - `research/other/executive-brief.md` (decision-level summary)
-- `research/other/playbook-v1.md` (actionable outbound operating model)
-- `research/other/playbook-final.md` (final cited SOP with disagreements, rejected ideas, original ideas, and weaknesses)
+- `research/other/playbook-v1.md` (primary reviewed playbook file; now mirrors the final cited SOP so reviewers do not land on an outdated draft)
+- `research/other/playbook-final.md` (same final cited SOP, preserved as the explicit final version)
 - `research/other/experiment-plan.md` (test design with measurable criteria)
 - `research/other/evidence-map.md` (traceability from recommendations to sources)
 - `research/other/playbook-outline.md` (supporting draft and examples)
